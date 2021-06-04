@@ -1,0 +1,9 @@
+#stampa
+{
+    list-style-type: none;
+}
+#stampa li
+{
+    padding: 10px 15px;
+    font-size: large;
+}
